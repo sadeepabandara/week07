@@ -1,5 +1,5 @@
 # week07/.github/workflows/backend_ci.yml
-# This is a test comment to trigger workflow
+# This is a test to trigger workflow
 
 name: Backend CI - Test, Build and Push Images to ACR
 
